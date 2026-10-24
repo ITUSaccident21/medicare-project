@@ -19,6 +19,7 @@ build/
 .npm
 
 # IDEs & OS
+.agents
 .vscode/
 .idea/
 .DS_Store

@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import m0_auth, m1_booking, m2_checklist, m3_chatbot, m4_ddi, m5_summary
+from app.routers import m0_auth, m2_checklist, m3_chatbot, m4_ddi, m5_summary
 
 app = FastAPI(
     title="MediCare API",
@@ -19,7 +19,6 @@ app.add_middleware(
 
 # Gắn các Routers tương ứng 6 Module
 app.include_router(m0_auth.router, prefix="/api/v1/auth", tags=["M0 - Tài khoản & Hồ sơ"])
-app.include_router(m1_booking.router, prefix="/api/v1/booking", tags=["M1 - Đặt lịch & Bốc số"])
 app.include_router(m2_checklist.router, prefix="/api/v1/checklist", tags=["M2 - Hướng dẫn chuẩn bị"])
 app.include_router(m3_chatbot.router, prefix="/api/v1/chatbot", tags=["M3 - Trợ lý Sức khỏe AI"])
 app.include_router(m4_ddi.router, prefix="/api/v1/ddi", tags=["M4 - Tương tác thuốc"])
