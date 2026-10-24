@@ -1,10 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import m0_auth, m2_checklist, m3_chatbot, m4_ddi, m5_summary
+from app.routers import m0_auth, m3_chatbot, m4_ddi, m5_summary
 
 app = FastAPI(
-    title="MediCare API",
-    description="Hệ thống Hỗ trợ Thăm khám, Tra cứu Tương tác Thuốc & Tư vấn Sức khỏe",
+    title="VitaP API",
+    description="Sổ Tay Y Tế Cá Nhân Hóa, Tra Cứu Tương Tác Thuốc & Trợ Lý Sức Khỏe Thông Minh",
     version="1.0.0"
 )
 
@@ -17,12 +17,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Gắn các Routers tương ứng 6 Module
-app.include_router(m0_auth.router, prefix="/api/v1/auth", tags=["M0 - Tài khoản & Hồ sơ"])
-app.include_router(m2_checklist.router, prefix="/api/v1/checklist", tags=["M2 - Hướng dẫn chuẩn bị"])
-app.include_router(m3_chatbot.router, prefix="/api/v1/chatbot", tags=["M3 - Trợ lý Sức khỏe AI"])
-app.include_router(m4_ddi.router, prefix="/api/v1/ddi", tags=["M4 - Tương tác thuốc"])
-app.include_router(m5_summary.router, prefix="/api/v1/summary", tags=["M5 - Phiếu tiền khám & QR"])
+# Gắn các Routers phân hệ VitaP
+app.include_router(m0_auth.router, prefix="/api/v1/auth", tags=["F1/E0 - Tài khoản & Hồ sơ"])
+app.include_router(m3_chatbot.router, prefix="/api/v1/chatbot", tags=["F3/E3 - Trợ lý Sức khỏe AI"])
+app.include_router(m4_ddi.router, prefix="/api/v1/ddi", tags=["F2/E2 - Tương tác thuốc"])
+app.include_router(m5_summary.router, prefix="/api/v1/summary", tags=["F1 - Tóm tắt hồ sơ"])
 
 @app.get("/")
 def read_root():

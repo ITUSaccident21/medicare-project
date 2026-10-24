@@ -1,4 +1,4 @@
-# MediCare / VitaP - Sổ Tay Y Tế Cá Nhân Hóa & Hỗ Trợ Khám Trực Tuyến
+# VitaP - Sổ Tay Y Tế Cá Nhân Hóa & Cảnh Báo An Toàn Dược Phẩm
 
 **Đồ án môn học:** Nhập môn Công nghệ Phần mềm (NMCNPM) - FIT, Trường ĐH Khoa học Tự nhiên, ĐHQG-HCM  
 **Nhóm tác giả (4 thành viên):**
@@ -19,7 +19,7 @@ Dự án áp dụng mô hình phân chia theo **File Ownership Matrix** và **Sa
 │   ├── app/
 │   │   ├── core/                       # Cấu hình hệ thống, DB connection, JWT Security (VT2)
 │   │   ├── models/                     # Lược đồ CSDL SQLAlchemy 3NF & Pydantic Schemas (VT1)
-│   │   ├── routers/                    # 5 Module REST API (m0_auth, m2_checklist, m3_chatbot, m4_ddi, m5_summary)
+│   │   ├── routers/                    # Các Router API VitaP (m0_auth, m3_chatbot, m4_ddi, m5_summary)
 │   │   └── services/                   # Scheduler nhắc thuốc, RAG Engine, OCR Scanner (VT2 & VT4)
 │   ├── data_seed/                      # Dữ liệu 350 biệt dược & Script nạp CSDL (VT1)
 │   ├── tests/                          # 🧪 Test Suite Pytest phân chia theo từng module cá nhân

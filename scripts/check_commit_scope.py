@@ -13,7 +13,6 @@ import argparse
 
 MODULE_OWNERSHIP = {
     "m0": ["backend/app/routers/m0_auth.py", "backend/app/models/", "backend/data_seed/", "backend/tests/test_m0_auth.py"],
-    "m2": ["backend/app/routers/m2_checklist.py", "backend/tests/test_m2_checklist.py"],
     "m3": ["backend/app/routers/m3_chatbot.py", "backend/app/services/rag/", "backend/tests/test_m3_chatbot.py"],
     "m4": ["backend/app/routers/m4_ddi.py", "backend/tests/test_m4_ddi.py", "docs/designs/m4_ddi_engine.md"],
     "m5": ["backend/app/routers/m5_summary.py", "backend/tests/test_m5_summary.py"],
