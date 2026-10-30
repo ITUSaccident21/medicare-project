@@ -1,5 +1,5 @@
 import os
-from pydantic_settings import BaseSettings
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
     PROJECT_NAME: str = "MediCare API"
@@ -12,8 +12,10 @@ class Settings(BaseSettings):
     USE_MOCK_AI: bool = os.getenv("USE_MOCK_AI", "True").lower() == "true"
     GEMINI_TIMEOUT_SECONDS: float = 1.5
 
-    class Config:
-        case_sensitive = True
-        env_file = ".env"
+    model_config = SettingsConfigDict(
+        case_sensitive=True,
+        env_file=".env",
+        extra="ignore"
+    )
 
 settings = Settings()

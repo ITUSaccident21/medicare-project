@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 BẢNG TASK CHI TIẾT (28 TASKS - CÓ THỂ IMPORT THẲNG VÀO NOTION)
+## 📊 BẢNG TASK CHI TIẾT 
 
 | Mã | Tên Task (Kèm chi tiết kỹ thuật thực thi) | Vai trò | Trạng thái | Sẵn sàng? | Còn chờ | Đang chặn | Người làm chính | Phối hợp |
 | :---: | :--- | :---: | :---: | :---: | :--- | :--- | :---: | :---: |
@@ -60,7 +60,4 @@
 
 ---
 
-## 🚀 HƯỚNG DẪN IMPORT VÀO NOTION TRONG 2 BƯỚC
 
-1. Mở trang Notion của nhóm ➔ Bấm vào nút `...` (Góc trên bên phải) ➔ Chọn **Import** ➔ Chọn **CSV**.
-2. Chọn file [`docs/notion_tasks_import.csv`](notion_tasks_import.csv). Toàn bộ 28 tasks kèm trạng thái, người làm chính, người phối hợp và quan hệ phụ thuộc sẽ hiển thị hoàn hảo!

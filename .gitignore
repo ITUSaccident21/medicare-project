@@ -11,6 +11,7 @@ venv/
 .venv/
 chroma_db/
 *.sqlite3
+*.db
 
 # Node / React
 node_modules/
