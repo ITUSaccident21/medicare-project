@@ -1,0 +1,52 @@
+[
+  {
+    "icd10_code": "I10",
+    "condition_name": "Tăng huyết áp vô căn (nguyên phát)",
+    "description": "Bệnh lý mạn tính áp lực máu lên thành động mạch tăng cao."
+  },
+  {
+    "icd10_code": "E11",
+    "condition_name": "Đái tháo đường type 2 (Không phụ thuộc insulin)",
+    "description": "Rối loạn chuyển hóa đường do đề kháng insulin mạn tính."
+  },
+  {
+    "icd10_code": "K25",
+    "condition_name": "Loét dạ dày tá tràng / Tiền sử xuất huyết tiêu hóa",
+    "description": "Tổn thương viêm loét niêm mạc dạ dày, nguy cơ xuất huyết tiêu hóa."
+  },
+  {
+    "icd10_code": "N18",
+    "condition_name": "Bệnh thận mạn tính (Suy thận)",
+    "description": "Suy giảm độ lọc cầu thận và chức năng đào thải của thận."
+  },
+  {
+    "icd10_code": "K70",
+    "condition_name": "Bệnh gan / Suy giảm chức năng gan",
+    "description": "Suy giảm khả năng chuyển hóa và giải độc của tế bào gan."
+  },
+  {
+    "icd10_code": "J45",
+    "condition_name": "Hen phế quản (Suyễn)",
+    "description": "Viêm đường thở mạn tính gây co thắt phế quản, khó thở."
+  },
+  {
+    "icd10_code": "Z33",
+    "condition_name": "Phụ nữ trong thời kỳ thai kỳ (Mang thai)",
+    "description": "Thời kỳ mang thai cần tránh thuốc có nguy cơ gây độc hoặc quái thai."
+  },
+  {
+    "icd10_code": "E78",
+    "condition_name": "Rối loạn chuyển hóa lipid và lipoprotein (Mỡ máu cao)",
+    "description": "Tăng cholesterol hoặc triglyceride trong máu."
+  },
+  {
+    "icd10_code": "I25",
+    "condition_name": "Bệnh tim thiếu máu cục bộ mạn tính (Bệnh mạch vành)",
+    "description": "Hẹp tắc động mạch vành cấp máu nuôi tim."
+  },
+  {
+    "icd10_code": "M10",
+    "condition_name": "Bệnh Gút (Gout)",
+    "description": "Viêm khớp tinh thể do lắng đọng muối urat vì tăng acid uric máu."
+  }
+]
