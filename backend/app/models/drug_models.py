@@ -45,3 +45,17 @@ class DrugDrugInteraction(Base):
         CheckConstraint("ingredient_a_id < ingredient_b_id", name="check_symmetric_order"),
         UniqueConstraint("ingredient_a_id", "ingredient_b_id", name="unique_pair_constraint"),
     )
+
+class DrugConditionInteraction(Base):
+    __tablename__ = "drug_condition_interactions"
+
+    id = Column(Integer, primary_key=True, index=True)
+    ingredient_id = Column(Integer, ForeignKey("active_ingredients.id"), nullable=False)
+    condition_id = Column(Integer, ForeignKey("conditions.id"), nullable=False)
+    severity = Column(String(10), nullable=False)  # RED, YELLOW
+    contraindication_type = Column(String(20), default="ABSOLUTE")  # ABSOLUTE, RELATIVE
+    clinical_advice = Column(Text, nullable=False)
+
+    __table_args__ = (
+        UniqueConstraint("ingredient_id", "condition_id", name="unique_ingredient_condition"),
+    )

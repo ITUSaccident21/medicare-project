@@ -1,0 +1,142 @@
+[
+  {
+    "ingredient_a": "Aspirin",
+    "ingredient_b": "Warfarin",
+    "severity": "RED",
+    "mechanism": "Tác dụng chống kết tập tiểu cầu của Aspirin kết hợp với ức chế yếu tố đông máu của Warfarin làm tăng vọt nguy cơ xuất huyết nội tạng và xuất huyết tiêu hóa ồ ạt.",
+    "clinical_management": "CHỐNG CHỈ ĐỊNH dùng đồng thời trừ phác đồ chuyên khoa tim mạch được theo dõi INR và đông máu liên tục."
+  },
+  {
+    "ingredient_a": "Aspirin",
+    "ingredient_b": "Ibuprofen",
+    "severity": "RED",
+    "mechanism": "Ibuprofen cản trở cạnh tranh gắn kết không thuận nghịch của Aspirin vào enzym COX-1 tiểu cầu, làm mất tác dụng bảo vệ tim mạch của Aspirin và tăng gấp đôi nguy cơ loét thủng dạ dày.",
+    "clinical_management": "Tránh dùng chung. Nếu bắt buộc, uống Aspirin ít nhất 2 giờ trước hoặc 8 giờ sau khi uống Ibuprofen."
+  },
+  {
+    "ingredient_a": "Ibuprofen",
+    "ingredient_b": "Warfarin",
+    "severity": "RED",
+    "mechanism": "NSAID gây tổn thương niêm mạc dạ dày và ức chế kết tập tiểu cầu, đẩy Warfarin ra khỏi protein huyết tương gây xuất huyết nặng.",
+    "clinical_management": "CHỐNG CHỈ ĐỊNH. Thay thế bằng Paracetamol để hạ sốt giảm đau an toàn."
+  },
+  {
+    "ingredient_a": "Clopidogrel",
+    "ingredient_b": "Omeprazole",
+    "severity": "RED",
+    "mechanism": "Omeprazole ức chế mạnh men gan CYP2C19, làm giảm chuyển hóa Clopidogrel thành dạng có hoạt tính sinh học, tăng nguy cơ tái phát tắc mạch và nhồi máu cơ tim.",
+    "clinical_management": "Tránh phối hợp. Khuyến cáo chuyển sang dùng Pantoprazole vì ít ức chế men CYP2C19 hơn."
+  },
+  {
+    "ingredient_a": "Clopidogrel",
+    "ingredient_b": "Esomeprazole",
+    "severity": "RED",
+    "mechanism": "Esomeprazole ức chế CYP2C19 tương tự Omeprazole, làm giảm tác dụng bảo vệ chống huyết khối của Clopidogrel.",
+    "clinical_management": "Tránh dùng phối hợp. Xem xét đổi sang Pantoprazole hoặc Rabeprazole."
+  },
+  {
+    "ingredient_a": "Amlodipine",
+    "ingredient_b": "Simvastatin",
+    "severity": "YELLOW",
+    "mechanism": "Amlodipine ức chế nhẹ enzym CYP3A4, làm tăng nồng độ Simvastatin trong máu, làm tăng nguy cơ tổn thương cơ vân và tiêu cơ vân cấp tính.",
+    "clinical_management": "Giới hạn liều Simvastatin không vượt quá 20mg/ngày khi dùng chung với Amlodipine."
+  },
+  {
+    "ingredient_a": "Enalapril",
+    "ingredient_b": "Spironolactone",
+    "severity": "YELLOW",
+    "mechanism": "Cả hai thuốc đều có cơ chế giữ kali máu. Phối hợp làm tăng nồng độ kali máu quá mức, gây nguy cơ loạn nhịp tim nguy hiểm.",
+    "clinical_management": "Theo dõi chặt chẽ điện giải đồ (kali huyết) và chức năng thận định kỳ."
+  },
+  {
+    "ingredient_a": "Enalapril",
+    "ingredient_b": "Ibuprofen",
+    "severity": "YELLOW",
+    "mechanism": "NSAID làm giảm tổng hợp prostaglandin tại thận, gây co mạch thận, làm giảm tác dụng hạ áp của ACEI và tăng nguy cơ suy thận cấp.",
+    "clinical_management": "Thận trọng, theo dõi huyết áp thường xuyên và đảm bảo bệnh nhân đủ nước."
+  },
+  {
+    "ingredient_a": "Losartan",
+    "ingredient_b": "Spironolactone",
+    "severity": "YELLOW",
+    "mechanism": "Tăng kali máu hiệp đồng do cùng ức chế trục Renin-Angiotensin-Aldosterone.",
+    "clinical_management": "Kiểm tra nồng độ kali huyết định kỳ, tránh ăn chế độ quá giàu kali hoặc dùng muối thay thế."
+  },
+  {
+    "ingredient_a": "Diazepam",
+    "ingredient_b": "Tramadol",
+    "severity": "RED",
+    "mechanism": "Tác dụng ức chế thần kinh trung ương hiệp đồng mạnh, gây an thần sâu, ức chế trung tâm hô hấp, suy hô hấp nặng và có thể hôn mê.",
+    "clinical_management": "CHỐNG CHỈ ĐỊNH phối hợp liều cao. Phải giảm liều và theo dõi sát sao dấu hiệu ức chế hô hấp."
+  },
+  {
+    "ingredient_a": "Ciprofloxacin",
+    "ingredient_b": "Prednisolone",
+    "severity": "YELLOW",
+    "mechanism": "Sử dụng đồng thời Corticosteroid và Quinolone làm tăng vọt nguy cơ viêm gân và đứt gân Achilles, đặc biệt ở người trên 60 tuổi.",
+    "clinical_management": "Khuyến cáo bệnh nhân ngừng vận động mạnh, theo dõi nếu có đau nhức vùng gân gót chân."
+  },
+  {
+    "ingredient_a": "Ciprofloxacin",
+    "ingredient_b": "Aluminium hydroxide",
+    "severity": "RED",
+    "mechanism": "Các ion kim loại đa hóa trị (nhôm, magie trong thuốc dạ dày) tạo phức chelate không tan với Ciprofloxacin, làm giảm tới 80-90% sự hấp thu kháng sinh.",
+    "clinical_management": "Uống Ciprofloxacin trước thuốc dạ dày ít nhất 2 giờ hoặc sau đó 4-6 giờ."
+  },
+  {
+    "ingredient_a": "Ciprofloxacin",
+    "ingredient_b": "Aluminium phosphate",
+    "severity": "RED",
+    "mechanism": "Tạo phức chelate làm giảm nghiêm trọng hấp thu kháng sinh Ciprofloxacin.",
+    "clinical_management": "Cách nhau ít nhất 2-4 giờ giữa hai cữ uống."
+  },
+  {
+    "ingredient_a": "Metformin",
+    "ingredient_b": "Ciprofloxacin",
+    "severity": "YELLOW",
+    "mechanism": "Ciprofloxacin gây rối loạn điều hòa giải phóng insulin, có thể gây hạ đường huyết nặng hoặc tăng đường huyết thất thường.",
+    "clinical_management": "Tăng tần suất đo đường huyết mao mạch khi đang điều trị đợt kháng sinh."
+  },
+  {
+    "ingredient_a": "Allopurinol",
+    "ingredient_b": "Amoxicillin",
+    "severity": "YELLOW",
+    "mechanism": "Dùng chung Allopurinol và Amoxicillin làm tăng đáng kể tỷ lệ xuất hiện ban đỏ dị ứng ngoài da.",
+    "clinical_management": "Cảnh báo bệnh nhân theo dõi phát ban da và cân nhắc đổi kháng sinh nếu có biểu hiện dị ứng."
+  },
+  {
+    "ingredient_a": "Atorvastatin",
+    "ingredient_b": "Clarithromycin",
+    "severity": "RED",
+    "mechanism": "Clarithromycin là chất ức chế mạnh enzym CYP3A4, làm tăng nồng độ Atorvastatin trong máu lên gấp nhiều lần, tăng vọt nguy cơ tiêu cơ vân cấp và suy thận.",
+    "clinical_management": "Tạm dừng Atorvastatin trong suốt đợt điều trị kháng sinh Clarithromycin."
+  },
+  {
+    "ingredient_a": "Simvastatin",
+    "ingredient_b": "Clarithromycin",
+    "severity": "RED",
+    "mechanism": "Ức chế chuyển hóa Simvastatin qua CYP3A4, tăng nguy cơ hoại tử cơ vân nặng.",
+    "clinical_management": "CHỐNG CHỈ ĐỊNH phối hợp. Tạm ngừng Simvastatin khi uống Clarithromycin."
+  },
+  {
+    "ingredient_a": "Methotrexate",
+    "ingredient_b": "Ibuprofen",
+    "severity": "RED",
+    "mechanism": "NSAID làm giảm thanh thải Methotrexate qua ống thận, dẫn đến ngộ độc Methotrexate nghiêm trọng (suy tủy, loét miệng, độc thận).",
+    "clinical_management": "CHỐNG CHỈ ĐỊNH dùng chung với Methotrexate liều cao."
+  },
+  {
+    "ingredient_a": "Paracetamol",
+    "ingredient_b": "Warfarin",
+    "severity": "YELLOW",
+    "mechanism": "Dùng Paracetamol liều cao kéo dài (> 2g/ngày trong trên 4 ngày) có thể làm tăng chỉ số INR và nguy cơ chảy máu ở bệnh nhân dùng Warfarin.",
+    "clinical_management": "An toàn khi dùng liều thấp ngắt quãng. Nếu dùng thường xuyên, cần kiểm tra chỉ số INR định kỳ."
+  },
+  {
+    "ingredient_a": "Metformin",
+    "ingredient_b": "Alcohol",
+    "severity": "RED",
+    "mechanism": "Rượu bia ức chế tân tạo đường tại gan và tăng nồng độ acid lactic, làm tăng nguy cơ nhiễm toan acid lactic đe dọa tính mạng.",
+    "clinical_management": "CẢNH BÁO: Tuyệt đối kiêng rượu bia khi đang dùng thuốc điều trị tiểu đường Metformin."
+  }
+]

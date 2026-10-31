@@ -1,0 +1,3308 @@
+[
+  {
+    "brand_name": "Panadol Extra",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      },
+      {
+        "inn_name": "Caffeine",
+        "strength": "65mg",
+        "atc_code": "N06BC01",
+        "drug_class": "Kích thích TKTW nhẹ"
+      }
+    ]
+  },
+  {
+    "brand_name": "Panadol Giảm Đau Hạ Sốt",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Panadol Cảm Cúm",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      },
+      {
+        "inn_name": "Phenylephrine",
+        "strength": "10mg",
+        "atc_code": "R01AA04",
+        "drug_class": "Co mạch, chống sung huyết mũi"
+      },
+      {
+        "inn_name": "Chlorpheniramine",
+        "strength": "2mg",
+        "atc_code": "R06AB04",
+        "drug_class": "Kháng Histamin H1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Panadol Trẻ Em 250mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Gói bột sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "250mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hapacol 650",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "650mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hapacol Extra",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      },
+      {
+        "inn_name": "Caffeine",
+        "strength": "65mg",
+        "atc_code": "N06BC01",
+        "drug_class": "Kích thích TKTW nhẹ"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hapacol Sủi 500mg",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hapacol 150mg Gói",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Gói bột sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "150mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hapacol 250mg Gói",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Gói bột sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "250mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hapacol Cảm Cúm",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt"
+      },
+      {
+        "inn_name": "Phenylephrine",
+        "strength": "10mg",
+        "atc_code": "R01AA04",
+        "drug_class": "Co mạch"
+      }
+    ]
+  },
+  {
+    "brand_name": "Efferalgan 500mg",
+    "manufacturer": "UPSA SAS",
+    "dosage_form": "Viên sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt phi Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Efferalgan Codeine",
+    "manufacturer": "UPSA SAS",
+    "dosage_form": "Viên sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt"
+      },
+      {
+        "inn_name": "Codeine",
+        "strength": "30mg",
+        "atc_code": "R05DA04",
+        "drug_class": "Giảm đau Opioid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Efferalgan 250mg",
+    "manufacturer": "UPSA SAS",
+    "dosage_form": "Gói bột sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "250mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt"
+      }
+    ]
+  },
+  {
+    "brand_name": "Efferalgan 80mg",
+    "manufacturer": "UPSA SAS",
+    "dosage_form": "Gói bột sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "80mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt"
+      }
+    ]
+  },
+  {
+    "brand_name": "Efferalgan Vitamin C",
+    "manufacturer": "UPSA SAS",
+    "dosage_form": "Viên sủi",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau"
+      },
+      {
+        "inn_name": "Vitamin C",
+        "strength": "200mg",
+        "atc_code": "A11GA01",
+        "drug_class": "Tăng đề kháng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Tylenol 500",
+    "manufacturer": "Janssen-Cilag",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau, hạ sốt"
+      }
+    ]
+  },
+  {
+    "brand_name": "Tylenol Extra Strength 650mg",
+    "manufacturer": "Janssen-Cilag",
+    "dosage_form": "Viên nang",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "650mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau kéo dài"
+      }
+    ]
+  },
+  {
+    "brand_name": "Decolgen Forte",
+    "manufacturer": "United Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "500mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau"
+      },
+      {
+        "inn_name": "Phenylephrine",
+        "strength": "10mg",
+        "atc_code": "R01AA04",
+        "drug_class": "Co mạch mũi"
+      },
+      {
+        "inn_name": "Chlorpheniramine",
+        "strength": "2mg",
+        "atc_code": "R06AB04",
+        "drug_class": "Chống dị ứng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Decolgen Siro 60ml",
+    "manufacturer": "United Pharma",
+    "dosage_form": "Siro",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "100mg/5ml",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau"
+      },
+      {
+        "inn_name": "Chlorpheniramine",
+        "strength": "1mg/5ml",
+        "atc_code": "R06AB04",
+        "drug_class": "Chống dị ứng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Alaxan",
+    "manufacturer": "United Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Paracetamol",
+        "strength": "325mg",
+        "atc_code": "N02BE01",
+        "drug_class": "Giảm đau"
+      },
+      {
+        "inn_name": "Ibuprofen",
+        "strength": "200mg",
+        "atc_code": "M01AE01",
+        "drug_class": "Kháng viêm NSAID"
+      }
+    ]
+  },
+  {
+    "brand_name": "Gofen 400",
+    "manufacturer": "Mega We Care",
+    "dosage_form": "Viên nang mềm",
+    "category": "Cơ xương khớp & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Ibuprofen",
+        "strength": "400mg",
+        "atc_code": "M01AE01",
+        "drug_class": "Kháng viêm NSAID"
+      }
+    ]
+  },
+  {
+    "brand_name": "Brufen 400mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên bao phim",
+    "category": "Cơ xương khớp & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Ibuprofen",
+        "strength": "400mg",
+        "atc_code": "M01AE01",
+        "drug_class": "Kháng viêm NSAID"
+      }
+    ]
+  },
+  {
+    "brand_name": "Brufen Siro 100mg/5ml",
+    "manufacturer": "Abbott",
+    "dosage_form": "Hỗn dịch uống",
+    "category": "Cảm cúm & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Ibuprofen",
+        "strength": "100mg/5ml",
+        "atc_code": "M01AE01",
+        "drug_class": "Kháng viêm NSAID"
+      }
+    ]
+  },
+  {
+    "brand_name": "Advil Liqui-Gels 200mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nang mềm",
+    "category": "Cơ xương khớp & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Ibuprofen",
+        "strength": "200mg",
+        "atc_code": "M01AE01",
+        "drug_class": "Kháng viêm NSAID"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aspirin 81mg Domesco",
+    "manufacturer": "Domesco",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tim mạch & Huyết khối",
+    "ingredients": [
+      {
+        "inn_name": "Aspirin",
+        "strength": "81mg",
+        "atc_code": "B01AC06",
+        "drug_class": "Kháng kết tập tiểu cầu"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aspirin pH8 500mg",
+    "manufacturer": "Dược Hà Tây",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Cơ xương khớp & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Aspirin",
+        "strength": "500mg",
+        "atc_code": "N02BA01",
+        "drug_class": "Kháng viêm, giảm đau"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aspilets EC 80mg",
+    "manufacturer": "United Pharma",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tim mạch & Huyết khối",
+    "ingredients": [
+      {
+        "inn_name": "Aspirin",
+        "strength": "80mg",
+        "atc_code": "B01AC06",
+        "drug_class": "Kháng kết tập tiểu cầu"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aspegic 100mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Gói bột pha uống",
+    "category": "Tim mạch & Huyết khối",
+    "ingredients": [
+      {
+        "inn_name": "Aspirin",
+        "strength": "100mg",
+        "atc_code": "B01AC06",
+        "drug_class": "Kháng kết tập tiểu cầu"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aspegic 500mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Gói bột pha uống",
+    "category": "Cơ xương khớp & Giảm đau",
+    "ingredients": [
+      {
+        "inn_name": "Aspirin",
+        "strength": "500mg",
+        "atc_code": "N02BA01",
+        "drug_class": "Kháng viêm, giảm đau"
+      }
+    ]
+  },
+  {
+    "brand_name": "Telfast HD 180mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Fexofenadine",
+        "strength": "180mg",
+        "atc_code": "R06AX26",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Telfast BD 60mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Fexofenadine",
+        "strength": "60mg",
+        "atc_code": "R06AX26",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Telfast Suspension 30mg/5ml",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Hỗn dịch uống",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Fexofenadine",
+        "strength": "30mg/5ml",
+        "atc_code": "R06AX26",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Clarityne 10mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên nén",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Loratadine",
+        "strength": "10mg",
+        "atc_code": "R06AX13",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Clarityne Siro 60ml",
+    "manufacturer": "Bayer",
+    "dosage_form": "Siro",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Loratadine",
+        "strength": "5mg/5ml",
+        "atc_code": "R06AX13",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aerius 5mg",
+    "manufacturer": "Merck Sharp & Dohme",
+    "dosage_form": "Viên bao phim",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Desloratadine",
+        "strength": "5mg",
+        "atc_code": "R06AX27",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aerius Siro 0.5mg/ml",
+    "manufacturer": "Merck Sharp & Dohme",
+    "dosage_form": "Siro",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Desloratadine",
+        "strength": "0.5mg/ml",
+        "atc_code": "R06AX27",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zyrtec 10mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên bao phim",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Cetirizine",
+        "strength": "10mg",
+        "atc_code": "R06AE07",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Xyzal 5mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên bao phim",
+    "category": "Dị ứng & Hô hấp",
+    "ingredients": [
+      {
+        "inn_name": "Levocetirizine",
+        "strength": "5mg",
+        "atc_code": "R06AE09",
+        "drug_class": "Kháng Histamin H1 thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Singulair 10mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên bao phim",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Montelukast",
+        "strength": "10mg",
+        "atc_code": "R03DC03",
+        "drug_class": "Đối kháng thụ thể Leukotriene"
+      }
+    ]
+  },
+  {
+    "brand_name": "Singulair 4mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên nhai",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Montelukast",
+        "strength": "4mg",
+        "atc_code": "R03DC03",
+        "drug_class": "Đối kháng thụ thể Leukotriene"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ventolin Inhaler 100mcg",
+    "manufacturer": "GSK",
+    "dosage_form": "Bình xịt định liều",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Salbutamol",
+        "strength": "100mcg/liều",
+        "atc_code": "R03AC02",
+        "drug_class": "Giãn phế quản tác dụng ngắn"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ventolin Nebules 2.5mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Dung dịch khí dung",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Salbutamol",
+        "strength": "2.5mg/2.5ml",
+        "atc_code": "R03AC02",
+        "drug_class": "Giãn phế quản tác dụng ngắn"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ventolin Siro 2mg/5ml",
+    "manufacturer": "GSK",
+    "dosage_form": "Siro",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Salbutamol",
+        "strength": "2mg/5ml",
+        "atc_code": "R03AC02",
+        "drug_class": "Giãn phế quản tác dụng ngắn"
+      }
+    ]
+  },
+  {
+    "brand_name": "Seretide Evohaler 25/125",
+    "manufacturer": "GSK",
+    "dosage_form": "Bình xịt định liều",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Salmeterol",
+        "strength": "25mcg",
+        "atc_code": "R03AK06",
+        "drug_class": "Giãn phế quản LABA"
+      },
+      {
+        "inn_name": "Fluticasone propionate",
+        "strength": "125mcg",
+        "atc_code": "R03BA05",
+        "drug_class": "Corticosteroid đường hít"
+      }
+    ]
+  },
+  {
+    "brand_name": "Seretide Accuhaler 50/250",
+    "manufacturer": "GSK",
+    "dosage_form": "Dụng cụ hít bột khô",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Salmeterol",
+        "strength": "50mcg",
+        "atc_code": "R03AK06",
+        "drug_class": "Giãn phế quản LABA"
+      },
+      {
+        "inn_name": "Fluticasone propionate",
+        "strength": "250mcg",
+        "atc_code": "R03BA05",
+        "drug_class": "Corticosteroid đường hít"
+      }
+    ]
+  },
+  {
+    "brand_name": "Symbicort Turbuhaler 160/4.5",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Bột hít qua miệng",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Budesonide",
+        "strength": "160mcg",
+        "atc_code": "R03BA02",
+        "drug_class": "Corticosteroid đường hít"
+      },
+      {
+        "inn_name": "Formoterol",
+        "strength": "4.5mcg",
+        "atc_code": "R03AK07",
+        "drug_class": "Giãn phế quản LABA"
+      }
+    ]
+  },
+  {
+    "brand_name": "Acemuc 200mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Gói cốm",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Acetylcysteine",
+        "strength": "200mg",
+        "atc_code": "R05CB01",
+        "drug_class": "Tiêu nhầy đường hô hấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Acemuc 100mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Gói cốm",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Acetylcysteine",
+        "strength": "100mg",
+        "atc_code": "R05CB01",
+        "drug_class": "Tiêu nhầy đường hô hấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Bisolvon 8mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Bromhexine",
+        "strength": "8mg",
+        "atc_code": "R05CB02",
+        "drug_class": "Tiêu nhầy, long đờm"
+      }
+    ]
+  },
+  {
+    "brand_name": "Bisolvon Siro 4mg/5ml",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Siro",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Bromhexine",
+        "strength": "4mg/5ml",
+        "atc_code": "R05CB02",
+        "drug_class": "Tiêu nhầy, long đờm"
+      }
+    ]
+  },
+  {
+    "brand_name": "Mucosolvan 30mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Ambroxol",
+        "strength": "30mg",
+        "atc_code": "R05CB06",
+        "drug_class": "Tiêu nhầy, điều hòa dịch tiết"
+      }
+    ]
+  },
+  {
+    "brand_name": "Halixol 30mg",
+    "manufacturer": "Egis Pharmaceuticals",
+    "dosage_form": "Viên nén",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Ambroxol",
+        "strength": "30mg",
+        "atc_code": "R05CB06",
+        "drug_class": "Tiêu nhầy, điều hòa dịch tiết"
+      }
+    ]
+  },
+  {
+    "brand_name": "Eugica Đỏ",
+    "manufacturer": "Mega We Care",
+    "dosage_form": "Viên nang mềm",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Eucalyptol",
+        "strength": "100.5mg",
+        "atc_code": "R05CA",
+        "drug_class": "Sát trùng đường hô hấp"
+      },
+      {
+        "inn_name": "Menthol",
+        "strength": "0.5mg",
+        "atc_code": "R05CA",
+        "drug_class": "Làm ấm họng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Eugica Xanh",
+    "manufacturer": "Mega We Care",
+    "dosage_form": "Viên nang mềm",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Eucalyptol",
+        "strength": "100mg",
+        "atc_code": "R05CA",
+        "drug_class": "Sát trùng đường hô hấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Prospan Siro 100ml",
+    "manufacturer": "Engelhard Arzneimittel",
+    "dosage_form": "Siro",
+    "category": "Hô hấp & Giảm ho",
+    "ingredients": [
+      {
+        "inn_name": "Hedera helix extract",
+        "strength": "0.7g/100ml",
+        "atc_code": "R05FB",
+        "drug_class": "Cao lá thường xuân"
+      }
+    ]
+  },
+  {
+    "brand_name": "Asthalin Inhaler 100mcg",
+    "manufacturer": "Cipla",
+    "dosage_form": "Bình xịt định liều",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Salbutamol",
+        "strength": "100mcg",
+        "atc_code": "R03AC02",
+        "drug_class": "Giãn phế quản"
+      }
+    ]
+  },
+  {
+    "brand_name": "Berodual Inhaler",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Bình xịt định liều",
+    "category": "Hô hấp & Hen suyễn",
+    "ingredients": [
+      {
+        "inn_name": "Ipratropium",
+        "strength": "20mcg",
+        "atc_code": "R03AL01",
+        "drug_class": "Kháng cholinergic"
+      },
+      {
+        "inn_name": "Fenoterol",
+        "strength": "50mcg",
+        "atc_code": "R03AL01",
+        "drug_class": "Chủ vận Beta-2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Spiriva Respimat 2.5mcg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Bình xịt phun hạt mịn",
+    "category": "Hô hấp & COPD",
+    "ingredients": [
+      {
+        "inn_name": "Tiotropium",
+        "strength": "2.5mcg",
+        "atc_code": "R03BB04",
+        "drug_class": "Kháng cholinergic LAMA"
+      }
+    ]
+  },
+  {
+    "brand_name": "Amlor 5mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nang",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Amlodipine",
+        "strength": "5mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Amlor 10mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nang",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Amlodipine",
+        "strength": "10mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Amvaz 5mg",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Amlodipine",
+        "strength": "5mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Amvaz 10mg",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Amlodipine",
+        "strength": "10mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Adalat CC 30mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên giải phóng kéo dài",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Nifedipine",
+        "strength": "30mg",
+        "atc_code": "C08CA05",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Adalat CC 20mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên giải phóng kéo dài",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Nifedipine",
+        "strength": "20mg",
+        "atc_code": "C08CA05",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Plendil 5mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Felodipine",
+        "strength": "5mg",
+        "atc_code": "C08CA02",
+        "drug_class": "Chẹn kênh canxi Dihydropyridine"
+      }
+    ]
+  },
+  {
+    "brand_name": "Cozaar 50mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Losartan",
+        "strength": "50mg",
+        "atc_code": "C09CA01",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Cozaar 100mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Losartan",
+        "strength": "100mg",
+        "atc_code": "C09CA01",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hyzaar 50/12.5mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Losartan",
+        "strength": "50mg",
+        "atc_code": "C09CA01",
+        "drug_class": "Chẹn thụ thể ARB"
+      },
+      {
+        "inn_name": "Hydrochlorothiazide",
+        "strength": "12.5mg",
+        "atc_code": "C03AA03",
+        "drug_class": "Lợi tiểu Thiazide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Diovan 80mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Valsartan",
+        "strength": "80mg",
+        "atc_code": "C09CA03",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Diovan 160mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Valsartan",
+        "strength": "160mg",
+        "atc_code": "C09CA03",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Co-Diovan 80/12.5mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Valsartan",
+        "strength": "80mg",
+        "atc_code": "C09CA03",
+        "drug_class": "Chẹn thụ thể ARB"
+      },
+      {
+        "inn_name": "Hydrochlorothiazide",
+        "strength": "12.5mg",
+        "atc_code": "C03AA03",
+        "drug_class": "Lợi tiểu Thiazide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Co-Diovan 160/12.5mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Valsartan",
+        "strength": "160mg",
+        "atc_code": "C09CA03",
+        "drug_class": "Chẹn thụ thể ARB"
+      },
+      {
+        "inn_name": "Hydrochlorothiazide",
+        "strength": "12.5mg",
+        "atc_code": "C03AA03",
+        "drug_class": "Lợi tiểu Thiazide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Micardis 40mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Telmisartan",
+        "strength": "40mg",
+        "atc_code": "C09CA07",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Micardis 80mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Telmisartan",
+        "strength": "80mg",
+        "atc_code": "C09CA07",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Micardis Plus 80/12.5",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Telmisartan",
+        "strength": "80mg",
+        "atc_code": "C09CA07",
+        "drug_class": "Chẹn thụ thể ARB"
+      },
+      {
+        "inn_name": "Hydrochlorothiazide",
+        "strength": "12.5mg",
+        "atc_code": "C03AA03",
+        "drug_class": "Lợi tiểu Thiazide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aprovel 150mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Irbesartan",
+        "strength": "150mg",
+        "atc_code": "C09CA04",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Aprovel 300mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Irbesartan",
+        "strength": "300mg",
+        "atc_code": "C09CA04",
+        "drug_class": "Chẹn thụ thể Angiotensin II (ARB)"
+      }
+    ]
+  },
+  {
+    "brand_name": "CoAprovel 150/12.5mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Irbesartan",
+        "strength": "150mg",
+        "atc_code": "C09CA04",
+        "drug_class": "Chẹn thụ thể ARB"
+      },
+      {
+        "inn_name": "Hydrochlorothiazide",
+        "strength": "12.5mg",
+        "atc_code": "C03AA03",
+        "drug_class": "Lợi tiểu Thiazide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Renitec 5mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Enalapril",
+        "strength": "5mg",
+        "atc_code": "C09AA02",
+        "drug_class": "Ức chế men chuyển (ACEI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Renitec 10mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Enalapril",
+        "strength": "10mg",
+        "atc_code": "C09AA02",
+        "drug_class": "Ức chế men chuyển (ACEI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ednyt 5mg",
+    "manufacturer": "Gedeon Richter",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Enalapril",
+        "strength": "5mg",
+        "atc_code": "C09AA02",
+        "drug_class": "Ức chế men chuyển (ACEI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coversyl 5mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Perindopril",
+        "strength": "5mg",
+        "atc_code": "C09AA04",
+        "drug_class": "Ức chế men chuyển (ACEI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coversyl 10mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Perindopril",
+        "strength": "10mg",
+        "atc_code": "C09AA04",
+        "drug_class": "Ức chế men chuyển (ACEI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coversyl Plus 5/1.25",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Perindopril",
+        "strength": "5mg",
+        "atc_code": "C09AA04",
+        "drug_class": "Ức chế men chuyển"
+      },
+      {
+        "inn_name": "Indapamide",
+        "strength": "1.25mg",
+        "atc_code": "C03BA11",
+        "drug_class": "Lợi tiểu"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coveram 5/5mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Perindopril",
+        "strength": "5mg",
+        "atc_code": "C09AA04",
+        "drug_class": "Ức chế men chuyển"
+      },
+      {
+        "inn_name": "Amlodipine",
+        "strength": "5mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coveram 10/5mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Perindopril",
+        "strength": "10mg",
+        "atc_code": "C09AA04",
+        "drug_class": "Ức chế men chuyển"
+      },
+      {
+        "inn_name": "Amlodipine",
+        "strength": "5mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi"
+      }
+    ]
+  },
+  {
+    "brand_name": "Concor 2.5mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Bisoprolol",
+        "strength": "2.5mg",
+        "atc_code": "C07AB07",
+        "drug_class": "Chẹn Beta giao cảm chọn lọc B1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Concor 5mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Bisoprolol",
+        "strength": "5mg",
+        "atc_code": "C07AB07",
+        "drug_class": "Chẹn Beta giao cảm chọn lọc B1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Concor COR 1.25mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Bisoprolol",
+        "strength": "1.25mg",
+        "atc_code": "C07AB07",
+        "drug_class": "Chẹn Beta giao cảm chọn lọc B1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Concor AM 5/5mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Bisoprolol",
+        "strength": "5mg",
+        "atc_code": "C07AB07",
+        "drug_class": "Chẹn Beta"
+      },
+      {
+        "inn_name": "Amlodipine",
+        "strength": "5mg",
+        "atc_code": "C08CA01",
+        "drug_class": "Chẹn kênh canxi"
+      }
+    ]
+  },
+  {
+    "brand_name": "Betaloc ZOK 25mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Metoprolol",
+        "strength": "25mg",
+        "atc_code": "C07AB02",
+        "drug_class": "Chẹn Beta giao cảm chọn lọc B1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Betaloc ZOK 50mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Metoprolol",
+        "strength": "50mg",
+        "atc_code": "C07AB02",
+        "drug_class": "Chẹn Beta giao cảm chọn lọc B1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Nebilet 5mg",
+    "manufacturer": "Menarini",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Nebivolol",
+        "strength": "5mg",
+        "atc_code": "C07AB12",
+        "drug_class": "Chẹn Beta giao cảm thế hệ 3"
+      }
+    ]
+  },
+  {
+    "brand_name": "Tenormin 50mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Atenolol",
+        "strength": "50mg",
+        "atc_code": "C07AB03",
+        "drug_class": "Chẹn Beta giao cảm chọn lọc B1"
+      }
+    ]
+  },
+  {
+    "brand_name": "Verospiron 25mg",
+    "manufacturer": "Gedeon Richter",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Spironolactone",
+        "strength": "25mg",
+        "atc_code": "C03DA01",
+        "drug_class": "Lợi tiểu kháng Aldosterone"
+      }
+    ]
+  },
+  {
+    "brand_name": "Verospiron 50mg",
+    "manufacturer": "Gedeon Richter",
+    "dosage_form": "Viên nang",
+    "category": "Tim mạch & Huyết áp",
+    "ingredients": [
+      {
+        "inn_name": "Spironolactone",
+        "strength": "50mg",
+        "atc_code": "C03DA01",
+        "drug_class": "Lợi tiểu kháng Aldosterone"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lasix 40mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Lợi tiểu",
+    "ingredients": [
+      {
+        "inn_name": "Furosemide",
+        "strength": "40mg",
+        "atc_code": "C03CA01",
+        "drug_class": "Lợi tiểu quai tác dụng mạnh"
+      }
+    ]
+  },
+  {
+    "brand_name": "Natrilix SR 1.5mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Tim mạch & Lợi tiểu",
+    "ingredients": [
+      {
+        "inn_name": "Indapamide",
+        "strength": "1.5mg",
+        "atc_code": "C03BA11",
+        "drug_class": "Lợi tiểu thiazide-like"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipitor 10mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Atorvastatin",
+        "strength": "10mg",
+        "atc_code": "C10AA05",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipitor 20mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Atorvastatin",
+        "strength": "20mg",
+        "atc_code": "C10AA05",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipitor 40mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Atorvastatin",
+        "strength": "40mg",
+        "atc_code": "C10AA05",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Atorvast 10",
+    "manufacturer": "Dược Hậu Giang",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Atorvastatin",
+        "strength": "10mg",
+        "atc_code": "C10AA05",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Atorvast 20",
+    "manufacturer": "Dược Hậu Giang",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Atorvastatin",
+        "strength": "20mg",
+        "atc_code": "C10AA05",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Crestor 10mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Rosuvastatin",
+        "strength": "10mg",
+        "atc_code": "C10AA07",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Crestor 20mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Rosuvastatin",
+        "strength": "20mg",
+        "atc_code": "C10AA07",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Crestor 5mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Rosuvastatin",
+        "strength": "5mg",
+        "atc_code": "C10AA07",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zocor 10mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Simvastatin",
+        "strength": "10mg",
+        "atc_code": "C10AA01",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zocor 20mg",
+    "manufacturer": "Organon",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Simvastatin",
+        "strength": "20mg",
+        "atc_code": "C10AA01",
+        "drug_class": "Hạ mỡ máu nhóm Statin"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipanthyl 200M",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên nang",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Fenofibrate",
+        "strength": "200mg",
+        "atc_code": "C10AB05",
+        "drug_class": "Hạ Triglyceride nhóm Fibrate"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipanthyl Supra 160mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Fenofibrate",
+        "strength": "160mg",
+        "atc_code": "C10AB05",
+        "drug_class": "Hạ Triglyceride nhóm Fibrate"
+      }
+    ]
+  },
+  {
+    "brand_name": "Lipanthyl NT 145mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Mỡ máu",
+    "ingredients": [
+      {
+        "inn_name": "Fenofibrate",
+        "strength": "145mg",
+        "atc_code": "C10AB05",
+        "drug_class": "Hạ Triglyceride nhóm Fibrate"
+      }
+    ]
+  },
+  {
+    "brand_name": "Plavix 75mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Clopidogrel",
+        "strength": "75mg",
+        "atc_code": "B01AC04",
+        "drug_class": "Kháng kết tập tiểu cầu P2Y12"
+      }
+    ]
+  },
+  {
+    "brand_name": "Freeclo 75mg",
+    "manufacturer": "Stada",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Clopidogrel",
+        "strength": "75mg",
+        "atc_code": "B01AC04",
+        "drug_class": "Kháng kết tập tiểu cầu P2Y12"
+      }
+    ]
+  },
+  {
+    "brand_name": "Sintrom 4mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên nén có vạch",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Acenocoumarol",
+        "strength": "4mg",
+        "atc_code": "B01AA07",
+        "drug_class": "Chống đông kháng Vitamin K"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coumadin 2mg",
+    "manufacturer": "Bristol-Myers Squibb",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Warfarin",
+        "strength": "2mg",
+        "atc_code": "B01AA03",
+        "drug_class": "Chống đông kháng Vitamin K"
+      }
+    ]
+  },
+  {
+    "brand_name": "Coumadin 5mg",
+    "manufacturer": "Bristol-Myers Squibb",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Warfarin",
+        "strength": "5mg",
+        "atc_code": "B01AA03",
+        "drug_class": "Chống đông kháng Vitamin K"
+      }
+    ]
+  },
+  {
+    "brand_name": "Xarelto 10mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Rivaroxaban",
+        "strength": "10mg",
+        "atc_code": "B01AF01",
+        "drug_class": "Kháng đông trực tiếp NOAC/DOAC"
+      }
+    ]
+  },
+  {
+    "brand_name": "Xarelto 15mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Rivaroxaban",
+        "strength": "15mg",
+        "atc_code": "B01AF01",
+        "drug_class": "Kháng đông trực tiếp NOAC/DOAC"
+      }
+    ]
+  },
+  {
+    "brand_name": "Xarelto 20mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Rivaroxaban",
+        "strength": "20mg",
+        "atc_code": "B01AF01",
+        "drug_class": "Kháng đông trực tiếp NOAC/DOAC"
+      }
+    ]
+  },
+  {
+    "brand_name": "Eliquis 2.5mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Apixaban",
+        "strength": "2.5mg",
+        "atc_code": "B01AF02",
+        "drug_class": "Kháng đông trực tiếp NOAC/DOAC"
+      }
+    ]
+  },
+  {
+    "brand_name": "Eliquis 5mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên bao phim",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Apixaban",
+        "strength": "5mg",
+        "atc_code": "B01AF02",
+        "drug_class": "Kháng đông trực tiếp NOAC/DOAC"
+      }
+    ]
+  },
+  {
+    "brand_name": "Pradaxa 110mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nang",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Dabigatran",
+        "strength": "110mg",
+        "atc_code": "B01AE07",
+        "drug_class": "Kháng thrombin trực tiếp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Pradaxa 150mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nang",
+    "category": "Tim mạch & Chống đông",
+    "ingredients": [
+      {
+        "inn_name": "Dabigatran",
+        "strength": "150mg",
+        "atc_code": "B01AE07",
+        "drug_class": "Kháng thrombin trực tiếp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Cordarone 200mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Loạn nhịp",
+    "ingredients": [
+      {
+        "inn_name": "Amiodarone",
+        "strength": "200mg",
+        "atc_code": "C01BD01",
+        "drug_class": "Chống loạn nhịp nhóm III"
+      }
+    ]
+  },
+  {
+    "brand_name": "Digoxin 0.25mg",
+    "manufacturer": "Dược TW2",
+    "dosage_form": "Viên nén",
+    "category": "Tim mạch & Suy tim",
+    "ingredients": [
+      {
+        "inn_name": "Digoxin",
+        "strength": "0.25mg",
+        "atc_code": "C01AA05",
+        "drug_class": "Glycosid trợ tim"
+      }
+    ]
+  },
+  {
+    "brand_name": "Nexium 20mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên kháng dịch dạ dày",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Esomeprazole",
+        "strength": "20mg",
+        "atc_code": "A02BC05",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Nexium 40mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên kháng dịch dạ dày",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Esomeprazole",
+        "strength": "40mg",
+        "atc_code": "A02BC05",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Nexium Sachet 10mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Cốm kháng dịch dạ dày",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Esomeprazole",
+        "strength": "10mg",
+        "atc_code": "A02BC05",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Losec 20mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên nang",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Omeprazole",
+        "strength": "20mg",
+        "atc_code": "A02BC01",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Omez 20mg",
+    "manufacturer": "Dr. Reddy's",
+    "dosage_form": "Viên nang",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Omeprazole",
+        "strength": "20mg",
+        "atc_code": "A02BC01",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Omeprazol 20mg DHG",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nang",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Omeprazole",
+        "strength": "20mg",
+        "atc_code": "A02BC01",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Pariet 10mg",
+    "manufacturer": "Eisai",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Rabeprazole",
+        "strength": "10mg",
+        "atc_code": "A02BC04",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Pariet 20mg",
+    "manufacturer": "Eisai",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Rabeprazole",
+        "strength": "20mg",
+        "atc_code": "A02BC04",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Pantoloc 20mg",
+    "manufacturer": "Takeda",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Pantoprazole",
+        "strength": "20mg",
+        "atc_code": "A02BC02",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Pantoloc 40mg",
+    "manufacturer": "Takeda",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Pantoprazole",
+        "strength": "40mg",
+        "atc_code": "A02BC02",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Controloc 40mg",
+    "manufacturer": "Takeda",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Pantoprazole",
+        "strength": "40mg",
+        "atc_code": "A02BC02",
+        "drug_class": "Ức chế bơm Proton (PPI)"
+      }
+    ]
+  },
+  {
+    "brand_name": "Motilium-M 10mg",
+    "manufacturer": "Janssen",
+    "dosage_form": "Viên nén bao phim",
+    "category": "Tiêu hóa & Chống nôn",
+    "ingredients": [
+      {
+        "inn_name": "Domperidone",
+        "strength": "10mg",
+        "atc_code": "A03FA03",
+        "drug_class": "Kháng Dopamine, chống nôn"
+      }
+    ]
+  },
+  {
+    "brand_name": "Motilium Siro 1mg/ml",
+    "manufacturer": "Janssen",
+    "dosage_form": "Hỗn dịch uống",
+    "category": "Tiêu hóa & Chống nôn",
+    "ingredients": [
+      {
+        "inn_name": "Domperidone",
+        "strength": "1mg/ml",
+        "atc_code": "A03FA03",
+        "drug_class": "Kháng Dopamine, chống nôn"
+      }
+    ]
+  },
+  {
+    "brand_name": "Primperan 10mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên nén",
+    "category": "Tiêu hóa & Chống nôn",
+    "ingredients": [
+      {
+        "inn_name": "Metoclopramide",
+        "strength": "10mg",
+        "atc_code": "A03FA01",
+        "drug_class": "Kích thích nhu động tiêu hóa"
+      }
+    ]
+  },
+  {
+    "brand_name": "Phosphalugel (Chữ P)",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Hỗn dịch uống",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Aluminium phosphate",
+        "strength": "20%",
+        "atc_code": "A02AB03",
+        "drug_class": "Antacid trung hòa acid dạ dày"
+      }
+    ]
+  },
+  {
+    "brand_name": "Gaviscon Hỗn Dịch",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Gói hỗn dịch",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Natri alginate",
+        "strength": "500mg",
+        "atc_code": "A02BX",
+        "drug_class": "Tạo màng ngăn trào ngược"
+      },
+      {
+        "inn_name": "Natri bicarbonate",
+        "strength": "267mg",
+        "atc_code": "A02AH",
+        "drug_class": "Trung hòa acid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Gaviscon Dual Action",
+    "manufacturer": "Reckitt Benckiser",
+    "dosage_form": "Viên nhai",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Natri alginate",
+        "strength": "250mg",
+        "atc_code": "A02BX",
+        "drug_class": "Tạo màng"
+      },
+      {
+        "inn_name": "Calcium carbonate",
+        "strength": "187.5mg",
+        "atc_code": "A02AC01",
+        "drug_class": "Antacid"
+      }
+    ]
+  },
+  {
+    "brand_name": "Smecta 3g",
+    "manufacturer": "Ipsen",
+    "dosage_form": "Gói bột pha hỗn dịch",
+    "category": "Tiêu hóa & Tiêu chảy",
+    "ingredients": [
+      {
+        "inn_name": "Diosmectite",
+        "strength": "3g",
+        "atc_code": "A07BC05",
+        "drug_class": "Bảo vệ niêm mạc ruột, cầm tiêu chảy"
+      }
+    ]
+  },
+  {
+    "brand_name": "Imodium 2mg",
+    "manufacturer": "Janssen",
+    "dosage_form": "Viên nang",
+    "category": "Tiêu hóa & Tiêu chảy",
+    "ingredients": [
+      {
+        "inn_name": "Loperamide",
+        "strength": "2mg",
+        "atc_code": "A07DA03",
+        "drug_class": "Giảm nhu động ruột, cầm tiêu chảy"
+      }
+    ]
+  },
+  {
+    "brand_name": "No-Spa 40mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên nén",
+    "category": "Tiêu hóa & Giảm co thắt",
+    "ingredients": [
+      {
+        "inn_name": "Drotaverine",
+        "strength": "40mg",
+        "atc_code": "A03AD02",
+        "drug_class": "Chống co thắt cơ trơn tiêu hóa"
+      }
+    ]
+  },
+  {
+    "brand_name": "Duspatalin 200mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Tiêu hóa & Đại tràng",
+    "ingredients": [
+      {
+        "inn_name": "Mebeverine",
+        "strength": "200mg",
+        "atc_code": "A03AA04",
+        "drug_class": "Giảm co thắt đại tràng hội chứng IBS"
+      }
+    ]
+  },
+  {
+    "brand_name": "Meteospasmyl",
+    "manufacturer": "Mayoly Spindler",
+    "dosage_form": "Viên nang mềm",
+    "category": "Tiêu hóa & Đầy hơi",
+    "ingredients": [
+      {
+        "inn_name": "Alverine",
+        "strength": "60mg",
+        "atc_code": "A03AX08",
+        "drug_class": "Giảm co thắt"
+      },
+      {
+        "inn_name": "Simethicone",
+        "strength": "300mg",
+        "atc_code": "A03AX13",
+        "drug_class": "Chống đầy hơi, giảm bọt khí"
+      }
+    ]
+  },
+  {
+    "brand_name": "Air-X 80mg",
+    "manufacturer": "R.X. Company",
+    "dosage_form": "Viên nhai",
+    "category": "Tiêu hóa & Đầy hơi",
+    "ingredients": [
+      {
+        "inn_name": "Simethicone",
+        "strength": "80mg",
+        "atc_code": "A03AX13",
+        "drug_class": "Phá bọt khí dạ dày"
+      }
+    ]
+  },
+  {
+    "brand_name": "Kremil-S",
+    "manufacturer": "United Pharma",
+    "dosage_form": "Viên nhai",
+    "category": "Tiêu hóa & Dạ dày",
+    "ingredients": [
+      {
+        "inn_name": "Aluminium hydroxide",
+        "strength": "178mg",
+        "atc_code": "A02AB01",
+        "drug_class": "Antacid"
+      },
+      {
+        "inn_name": "Magnesium carbonate",
+        "strength": "233mg",
+        "atc_code": "A02AA01",
+        "drug_class": "Antacid"
+      },
+      {
+        "inn_name": "Simethicone",
+        "strength": "25mg",
+        "atc_code": "A03AX13",
+        "drug_class": "Chống đầy hơi"
+      }
+    ]
+  },
+  {
+    "brand_name": "Enterogermina 2 Tỷ",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Hỗn dịch uống",
+    "category": "Tiêu hóa & Men vi sinh",
+    "ingredients": [
+      {
+        "inn_name": "Bacillus clausii",
+        "strength": "2 tỷ bào tử",
+        "atc_code": "A07FA",
+        "drug_class": "Vi sinh đường ruột"
+      }
+    ]
+  },
+  {
+    "brand_name": "Enterogermina 4 Tỷ",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Hỗn dịch uống",
+    "category": "Tiêu hóa & Men vi sinh",
+    "ingredients": [
+      {
+        "inn_name": "Bacillus clausii",
+        "strength": "4 tỷ bào tử",
+        "atc_code": "A07FA",
+        "drug_class": "Vi sinh đường ruột"
+      }
+    ]
+  },
+  {
+    "brand_name": "Bioflora 100mg",
+    "manufacturer": "Biocodex",
+    "dosage_form": "Gói bột uống",
+    "category": "Tiêu hóa & Men vi sinh",
+    "ingredients": [
+      {
+        "inn_name": "Saccharomyces boulardii",
+        "strength": "100mg",
+        "atc_code": "A07FA02",
+        "drug_class": "Nấm men vi sinh tiêu hóa"
+      }
+    ]
+  },
+  {
+    "brand_name": "Duphalac 667g/l",
+    "manufacturer": "Abbott",
+    "dosage_form": "Dung dịch uống",
+    "category": "Tiêu hóa & Táo bón",
+    "ingredients": [
+      {
+        "inn_name": "Lactulose",
+        "strength": "667g/l",
+        "atc_code": "A06AD11",
+        "drug_class": "Nhuận tràng thẩm thấu"
+      }
+    ]
+  },
+  {
+    "brand_name": "Forlax 10g",
+    "manufacturer": "Ipsen",
+    "dosage_form": "Gói bột pha dung dịch",
+    "category": "Tiêu hóa & Táo bón",
+    "ingredients": [
+      {
+        "inn_name": "Macrogol 4000",
+        "strength": "10g",
+        "atc_code": "A06AD15",
+        "drug_class": "Nhuận tràng thẩm thấu"
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage 500mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Metformin",
+        "strength": "500mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Hạ đường huyết Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage 850mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Metformin",
+        "strength": "850mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Hạ đường huyết Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage 1000mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Metformin",
+        "strength": "1000mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Hạ đường huyết Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage XR 500mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Metformin",
+        "strength": "500mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Hạ đường huyết Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage XR 750mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Metformin",
+        "strength": "750mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Hạ đường huyết Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Glucophage XR 1000mg",
+    "manufacturer": "Merck",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Metformin",
+        "strength": "1000mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Hạ đường huyết Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Diamicron MR 30mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên phóng thích biến đổi",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Gliclazide",
+        "strength": "30mg",
+        "atc_code": "A10BB09",
+        "drug_class": "Kích thích tiết insulin Sulfonylurea"
+      }
+    ]
+  },
+  {
+    "brand_name": "Diamicron MR 60mg",
+    "manufacturer": "Servier",
+    "dosage_form": "Viên phóng thích biến đổi",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Gliclazide",
+        "strength": "60mg",
+        "atc_code": "A10BB09",
+        "drug_class": "Kích thích tiết insulin Sulfonylurea"
+      }
+    ]
+  },
+  {
+    "brand_name": "Amaryl 2mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Glimepiride",
+        "strength": "2mg",
+        "atc_code": "A10BB12",
+        "drug_class": "Kích thích tiết insulin Sulfonylurea"
+      }
+    ]
+  },
+  {
+    "brand_name": "Amaryl 4mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Glimepiride",
+        "strength": "4mg",
+        "atc_code": "A10BB12",
+        "drug_class": "Kích thích tiết insulin Sulfonylurea"
+      }
+    ]
+  },
+  {
+    "brand_name": "Januvia 50mg",
+    "manufacturer": "MSD",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Sitagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH01",
+        "drug_class": "Ức chế DPP-4"
+      }
+    ]
+  },
+  {
+    "brand_name": "Januvia 100mg",
+    "manufacturer": "MSD",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Sitagliptin",
+        "strength": "100mg",
+        "atc_code": "A10BH01",
+        "drug_class": "Ức chế DPP-4"
+      }
+    ]
+  },
+  {
+    "brand_name": "Janumet 50/500mg",
+    "manufacturer": "MSD",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Sitagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH01",
+        "drug_class": "Ức chế DPP-4"
+      },
+      {
+        "inn_name": "Metformin",
+        "strength": "500mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Janumet 50/1000mg",
+    "manufacturer": "MSD",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Sitagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH01",
+        "drug_class": "Ức chế DPP-4"
+      },
+      {
+        "inn_name": "Metformin",
+        "strength": "1000mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Galvus 50mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Vildagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH02",
+        "drug_class": "Ức chế DPP-4"
+      }
+    ]
+  },
+  {
+    "brand_name": "Galvus Met 50/500mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Vildagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH02",
+        "drug_class": "Ức chế DPP-4"
+      },
+      {
+        "inn_name": "Metformin",
+        "strength": "500mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Galvus Met 50/850mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Vildagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH02",
+        "drug_class": "Ức chế DPP-4"
+      },
+      {
+        "inn_name": "Metformin",
+        "strength": "850mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Galvus Met 50/1000mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Vildagliptin",
+        "strength": "50mg",
+        "atc_code": "A10BH02",
+        "drug_class": "Ức chế DPP-4"
+      },
+      {
+        "inn_name": "Metformin",
+        "strength": "1000mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Trajenta 5mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Linagliptin",
+        "strength": "5mg",
+        "atc_code": "A10BH05",
+        "drug_class": "Ức chế DPP-4 bài tiết qua mật"
+      }
+    ]
+  },
+  {
+    "brand_name": "Trajenta Duo 2.5/500mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Linagliptin",
+        "strength": "2.5mg",
+        "atc_code": "A10BH05",
+        "drug_class": "Ức chế DPP-4"
+      },
+      {
+        "inn_name": "Metformin",
+        "strength": "500mg",
+        "atc_code": "A10BA02",
+        "drug_class": "Biguanide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Forxiga 5mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Dapagliflozin",
+        "strength": "5mg",
+        "atc_code": "A10BK01",
+        "drug_class": "Ức chế đồng vận chuyển SGLT2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Forxiga 10mg",
+    "manufacturer": "AstraZeneca",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Dapagliflozin",
+        "strength": "10mg",
+        "atc_code": "A10BK01",
+        "drug_class": "Ức chế đồng vận chuyển SGLT2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Jardiance 10mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Empagliflozin",
+        "strength": "10mg",
+        "atc_code": "A10BK03",
+        "drug_class": "Ức chế SGLT2 bảo vệ tim thận"
+      }
+    ]
+  },
+  {
+    "brand_name": "Jardiance 25mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Tiểu đường",
+    "ingredients": [
+      {
+        "inn_name": "Empagliflozin",
+        "strength": "25mg",
+        "atc_code": "A10BK03",
+        "drug_class": "Ức chế SGLT2 bảo vệ tim thận"
+      }
+    ]
+  },
+  {
+    "brand_name": "Berlthyrox 50mcg",
+    "manufacturer": "Berlin-Chemie",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Tuyến giáp",
+    "ingredients": [
+      {
+        "inn_name": "Levothyroxine",
+        "strength": "50mcg",
+        "atc_code": "H03AA01",
+        "drug_class": "Hormone tuyến giáp tổng hợp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Berlthyrox 100mcg",
+    "manufacturer": "Berlin-Chemie",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Tuyến giáp",
+    "ingredients": [
+      {
+        "inn_name": "Levothyroxine",
+        "strength": "100mcg",
+        "atc_code": "H03AA01",
+        "drug_class": "Hormone tuyến giáp tổng hợp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zyloric 100mg",
+    "manufacturer": "Aspen",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Bệnh Gút",
+    "ingredients": [
+      {
+        "inn_name": "Allopurinol",
+        "strength": "100mg",
+        "atc_code": "M04AA01",
+        "drug_class": "Ức chế enzyme Xanthine oxidase hạ Acid Uric"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zyloric 300mg",
+    "manufacturer": "Aspen",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Bệnh Gút",
+    "ingredients": [
+      {
+        "inn_name": "Allopurinol",
+        "strength": "300mg",
+        "atc_code": "M04AA01",
+        "drug_class": "Ức chế enzyme Xanthine oxidase hạ Acid Uric"
+      }
+    ]
+  },
+  {
+    "brand_name": "Colchicine 1mg Danapha",
+    "manufacturer": "Danapha",
+    "dosage_form": "Viên nén",
+    "category": "Chuyển hóa & Bệnh Gút",
+    "ingredients": [
+      {
+        "inn_name": "Colchicine",
+        "strength": "1mg",
+        "atc_code": "M04AC01",
+        "drug_class": "Kháng viêm đặc hiệu cơn gút cấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Feburic 80mg",
+    "manufacturer": "Menarini",
+    "dosage_form": "Viên bao phim",
+    "category": "Chuyển hóa & Bệnh Gút",
+    "ingredients": [
+      {
+        "inn_name": "Febuxostat",
+        "strength": "80mg",
+        "atc_code": "M04AA03",
+        "drug_class": "Hạ Acid Uric máu chọn lọc"
+      }
+    ]
+  },
+  {
+    "brand_name": "Augmentin 625mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Amoxicillin",
+        "strength": "500mg",
+        "atc_code": "J01CA04",
+        "drug_class": "Penicillin phổ rộng"
+      },
+      {
+        "inn_name": "Clavulanic acid",
+        "strength": "125mg",
+        "atc_code": "J01CR02",
+        "drug_class": "Ức chế men Beta-lactamase"
+      }
+    ]
+  },
+  {
+    "brand_name": "Augmentin 1g",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Amoxicillin",
+        "strength": "875mg",
+        "atc_code": "J01CA04",
+        "drug_class": "Penicillin phổ rộng"
+      },
+      {
+        "inn_name": "Clavulanic acid",
+        "strength": "125mg",
+        "atc_code": "J01CR02",
+        "drug_class": "Ức chế men Beta-lactamase"
+      }
+    ]
+  },
+  {
+    "brand_name": "Augmentin 250mg Gói",
+    "manufacturer": "GSK",
+    "dosage_form": "Gói bột pha hỗn dịch",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Amoxicillin",
+        "strength": "250mg",
+        "atc_code": "J01CA04",
+        "drug_class": "Penicillin"
+      },
+      {
+        "inn_name": "Clavulanic acid",
+        "strength": "31.25mg",
+        "atc_code": "J01CR02",
+        "drug_class": "Ức chế Beta-lactamase"
+      }
+    ]
+  },
+  {
+    "brand_name": "Clamentin 1g",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Amoxicillin",
+        "strength": "875mg",
+        "atc_code": "J01CA04",
+        "drug_class": "Penicillin"
+      },
+      {
+        "inn_name": "Clavulanic acid",
+        "strength": "125mg",
+        "atc_code": "J01CR02",
+        "drug_class": "Ức chế Beta-lactamase"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ospamox 500mg",
+    "manufacturer": "Sandoz",
+    "dosage_form": "Viên nang",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Amoxicillin",
+        "strength": "500mg",
+        "atc_code": "J01CA04",
+        "drug_class": "Penicillin phổ rộng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zinnat 250mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefuroxime",
+        "strength": "250mg",
+        "atc_code": "J01DC02",
+        "drug_class": "Cephalosporin thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zinnat 500mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefuroxime",
+        "strength": "500mg",
+        "atc_code": "J01DC02",
+        "drug_class": "Cephalosporin thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zinnat Cốm 125mg",
+    "manufacturer": "GSK",
+    "dosage_form": "Cốm pha hỗn dịch",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefuroxime",
+        "strength": "125mg/5ml",
+        "atc_code": "J01DC02",
+        "drug_class": "Cephalosporin thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Hagizin 250mg",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefuroxime",
+        "strength": "250mg",
+        "atc_code": "J01DC02",
+        "drug_class": "Cephalosporin thế hệ 2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Meiact 200mg",
+    "manufacturer": "Meiji Seika",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefditoren",
+        "strength": "200mg",
+        "atc_code": "J01DD16",
+        "drug_class": "Cephalosporin thế hệ 3 uống"
+      }
+    ]
+  },
+  {
+    "brand_name": "Fixim 100mg",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nang",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefixime",
+        "strength": "100mg",
+        "atc_code": "J01DD08",
+        "drug_class": "Cephalosporin thế hệ 3 uống"
+      }
+    ]
+  },
+  {
+    "brand_name": "Cefixim 200mg Domesco",
+    "manufacturer": "Domesco",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Cefixime",
+        "strength": "200mg",
+        "atc_code": "J01DD08",
+        "drug_class": "Cephalosporin thế hệ 3 uống"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ciprobay 500mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Ciprofloxacin",
+        "strength": "500mg",
+        "atc_code": "J01MA02",
+        "drug_class": "Quinolone phổ rộng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Ciprofloxacin 500mg DHG",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Ciprofloxacin",
+        "strength": "500mg",
+        "atc_code": "J01MA02",
+        "drug_class": "Quinolone phổ rộng"
+      }
+    ]
+  },
+  {
+    "brand_name": "Tavanic 500mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Levofloxacin",
+        "strength": "500mg",
+        "atc_code": "J01MA12",
+        "drug_class": "Fluoroquinolone hô hấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Levaquin 500mg",
+    "manufacturer": "Janssen",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Levofloxacin",
+        "strength": "500mg",
+        "atc_code": "J01MA12",
+        "drug_class": "Fluoroquinolone hô hấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Avelox 400mg",
+    "manufacturer": "Bayer",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Moxifloxacin",
+        "strength": "400mg",
+        "atc_code": "J01MA14",
+        "drug_class": "Fluoroquinolone hô hấp"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zithromax 500mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Azithromycin",
+        "strength": "500mg",
+        "atc_code": "J01FA10",
+        "drug_class": "Macrolide tác dụng kéo dài"
+      }
+    ]
+  },
+  {
+    "brand_name": "Zithromax Hỗn Dịch 200mg/5ml",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Bột pha hỗn dịch",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Azithromycin",
+        "strength": "200mg/5ml",
+        "atc_code": "J01FA10",
+        "drug_class": "Macrolide tác dụng kéo dài"
+      }
+    ]
+  },
+  {
+    "brand_name": "Klacid 250mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Clarithromycin",
+        "strength": "250mg",
+        "atc_code": "J01FA09",
+        "drug_class": "Macrolide diệt HP dạ dày"
+      }
+    ]
+  },
+  {
+    "brand_name": "Klacid 500mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Clarithromycin",
+        "strength": "500mg",
+        "atc_code": "J01FA09",
+        "drug_class": "Macrolide diệt HP dạ dày"
+      }
+    ]
+  },
+  {
+    "brand_name": "Klacid MR 500mg",
+    "manufacturer": "Abbott",
+    "dosage_form": "Viên phóng thích biến đổi",
+    "category": "Kháng sinh & Nhiễm khuẩn",
+    "ingredients": [
+      {
+        "inn_name": "Clarithromycin",
+        "strength": "500mg",
+        "atc_code": "J01FA09",
+        "drug_class": "Macrolide"
+      }
+    ]
+  },
+  {
+    "brand_name": "Flagyl 250mg",
+    "manufacturer": "Sanofi",
+    "dosage_form": "Viên bao phim",
+    "category": "Kháng sinh & Ký sinh trùng",
+    "ingredients": [
+      {
+        "inn_name": "Metronidazole",
+        "strength": "250mg",
+        "atc_code": "J01XD01",
+        "drug_class": "Kháng khuẩn kỵ khí & Trichomonas"
+      }
+    ]
+  },
+  {
+    "brand_name": "Medrol 4mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nén có vạch",
+    "category": "Kháng viêm & Miễn dịch",
+    "ingredients": [
+      {
+        "inn_name": "Methylprednisolone",
+        "strength": "4mg",
+        "atc_code": "H02AB04",
+        "drug_class": "Corticosteroid kháng viêm mạnh"
+      }
+    ]
+  },
+  {
+    "brand_name": "Medrol 16mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nén có vạch",
+    "category": "Kháng viêm & Miễn dịch",
+    "ingredients": [
+      {
+        "inn_name": "Methylprednisolone",
+        "strength": "16mg",
+        "atc_code": "H02AB04",
+        "drug_class": "Corticosteroid kháng viêm mạnh"
+      }
+    ]
+  },
+  {
+    "brand_name": "Prednisolon 5mg DHG",
+    "manufacturer": "DHG Pharma",
+    "dosage_form": "Viên nén",
+    "category": "Kháng viêm & Miễn dịch",
+    "ingredients": [
+      {
+        "inn_name": "Prednisolone",
+        "strength": "5mg",
+        "atc_code": "H02AB06",
+        "drug_class": "Corticosteroid kháng viêm trung bình"
+      }
+    ]
+  },
+  {
+    "brand_name": "Dexamethason 0.5mg",
+    "manufacturer": "Dược Hà Tây",
+    "dosage_form": "Viên nén",
+    "category": "Kháng viêm & Miễn dịch",
+    "ingredients": [
+      {
+        "inn_name": "Dexamethasone",
+        "strength": "0.5mg",
+        "atc_code": "H02AB02",
+        "drug_class": "Corticosteroid kháng viêm cực mạnh"
+      }
+    ]
+  },
+  {
+    "brand_name": "Mobic 7.5mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Meloxicam",
+        "strength": "7.5mg",
+        "atc_code": "M01AC06",
+        "drug_class": "NSAID ức chế ưu thế COX-2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Mobic 15mg",
+    "manufacturer": "Boehringer Ingelheim",
+    "dosage_form": "Viên nén",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Meloxicam",
+        "strength": "15mg",
+        "atc_code": "M01AC06",
+        "drug_class": "NSAID ức chế ưu thế COX-2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Celebrex 200mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nang",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Celecoxib",
+        "strength": "200mg",
+        "atc_code": "M01AH01",
+        "drug_class": "NSAID ức chế chọn lọc COX-2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Celebrex 100mg",
+    "manufacturer": "Pfizer",
+    "dosage_form": "Viên nang",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Celecoxib",
+        "strength": "100mg",
+        "atc_code": "M01AH01",
+        "drug_class": "NSAID ức chế chọn lọc COX-2"
+      }
+    ]
+  },
+  {
+    "brand_name": "Voltaren 50mg",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên bao tan trong ruột",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Diclofenac",
+        "strength": "50mg",
+        "atc_code": "M01AB05",
+        "drug_class": "NSAID giảm đau khớp mạnh"
+      }
+    ]
+  },
+  {
+    "brand_name": "Voltaren 75mg SR",
+    "manufacturer": "Novartis",
+    "dosage_form": "Viên phóng thích kéo dài",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Diclofenac",
+        "strength": "75mg",
+        "atc_code": "M01AB05",
+        "drug_class": "NSAID giảm đau khớp mạnh"
+      }
+    ]
+  },
+  {
+    "brand_name": "Arcoxia 60mg",
+    "manufacturer": "MSD",
+    "dosage_form": "Viên bao phim",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Etoricoxib",
+        "strength": "60mg",
+        "atc_code": "M01AH05",
+        "drug_class": "NSAID chọn lọc COX-2 thế hệ mới"
+      }
+    ]
+  },
+  {
+    "brand_name": "Arcoxia 90mg",
+    "manufacturer": "MSD",
+    "dosage_form": "Viên bao phim",
+    "category": "Cơ xương khớp & Kháng viêm",
+    "ingredients": [
+      {
+        "inn_name": "Etoricoxib",
+        "strength": "90mg",
+        "atc_code": "M01AH05",
+        "drug_class": "NSAID chọn lọc COX-2 thế hệ mới"
+      }
+    ]
+  }
+]
